@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="sci_label" translatable="false">SCI</string>
+    <string name="basic">BASIC</string>
+    <string name="clear">Clear all</string>
+    <string name="sign">Change sign</string>
+    <string name="percent">Percent</string>
+    <string name="divide">Divide</string>
+    <string name="multiply">Multiply</string>
+    <string name="subtract">Subtract</string>
+    <string name="add">Add</string>
+    <string name="decimal">Decimal point</string>
+    <string name="equals">Equals</string>
+    <string name="error">Cannot divide by zero</string>
+    <string name="scientific">Scientific</string>
+    <string name="switch_basic">Switch to Basic</string>
+    <string name="switch_scientific">Switch to Scientific</string>
+    <string name="swipe_basic">↔ Scientific · ↕ History</string>
+    <string name="swipe_science">↔ Basic · ↕ History</string>
+    <string name="history">History</string>
+    <string name="history_empty">Your calculations will appear here.</string>
+    <string name="history_hint">Tap a calculation to edit it again.</string>
+    <string name="history_clear">Clear history</string>
+    <string name="close">Close</string>
+    <string name="apply">Apply</string>
+    <string name="cancel">Cancel</string>
+    <string name="setup">Settings</string>
+    <string name="text_entry">Edit expression</string>
+    <string name="calculating">Calculating…</string>
+    <string name="expression_label">Mathematical expression</string>
+    <string name="appearance">Appearance</string>
+    <string name="appearance_hint">Choose a look. Basic stays light; Scientific stays dark.</string>
+    <string name="theme_graphite">Graphite</string>
+    <string name="theme_graphite_detail">Warm amber · Soft capsules</string>
+    <string name="theme_ocean">Ocean</string>
+    <string name="theme_ocean_detail">Powder blue · Rounded tiles</string>
+    <string name="theme_matcha">Matcha</string>
+    <string name="theme_matcha_detail">Sage green · Gentle corners</string>
+    <string name="exponent">Multiply by ten to a power</string>
+</resources>

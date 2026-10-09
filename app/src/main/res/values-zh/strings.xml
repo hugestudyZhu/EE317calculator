@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">计算器</string>
+    <string name="basic">BASIC</string>
+    <string name="clear">全部清除</string>
+    <string name="sign">切换正负号</string>
+    <string name="percent">百分比</string>
+    <string name="divide">除</string>
+    <string name="multiply">乘</string>
+    <string name="subtract">减</string>
+    <string name="add">加</string>
+    <string name="decimal">小数点</string>
+    <string name="equals">等于</string>
+    <string name="error">不能除以零</string>
+    <string name="scientific">科学计算</string>
+    <string name="switch_basic">切换基础模式</string>
+    <string name="switch_scientific">切换科学模式</string>
+    <string name="swipe_basic">↔ 科学计算 · ↕ 历史记录</string>
+    <string name="swipe_science">↔ 基础计算 · ↕ 历史记录</string>
+    <string name="history">历史记录</string>
+    <string name="history_empty">完成的计算会显示在这里。</string>
+    <string name="history_hint">点击一条计算记录，重新编辑。</string>
+    <string name="history_clear">清空历史记录</string>
+    <string name="close">关闭</string>
+    <string name="apply">应用</string>
+    <string name="cancel">取消</string>
+    <string name="setup">设置</string>
+    <string name="text_entry">编辑表达式</string>
+    <string name="calculating">正在计算…</string>
+    <string name="expression_label">数学表达式</string>
+    <string name="appearance">外观</string>
+    <string name="appearance_hint">选择喜欢的风格，基础模式保持浅色，科学模式保持深色。</string>
+    <string name="theme_graphite">石墨橙</string>
+    <string name="theme_graphite_detail">暖橙强调 · 柔和胶囊</string>
+    <string name="theme_ocean">海盐蓝</string>
+    <string name="theme_ocean_detail">雾蓝配色 · 圆角方块</string>
+    <string name="theme_matcha">抹茶绿</string>
+    <string name="theme_matcha_detail">鼠尾草绿 · 温润圆角</string>
+    <string name="exponent">乘以十的幂</string>
+</resources>
